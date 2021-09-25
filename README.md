@@ -1,7 +1,7 @@
 # Neighbourhood Watch
 
 ## Author
-Josphine Ndanu
+Nicholas Owino 
 
 ## Description
 A website to kepp a user in theloop about everything happening within their neighbourhhod
