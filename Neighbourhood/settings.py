@@ -45,6 +45,7 @@ if config('MODE') == "dev":
         }
 
     }
+    
 # production
 else:
     DATABASES = {
