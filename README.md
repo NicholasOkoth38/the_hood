@@ -1,10 +1,10 @@
-# Neighbourhood Watch
+# The hood 
 
 ## Author
 Nicholas Owino 
 
 ## Description
-A website to kepp a user in theloop about everything happening within their neighbourhhod
+A website to keep a user in the know about everything happening within their hood
 
 ## Set Up and Installations
 
@@ -14,21 +14,15 @@ A website to kepp a user in theloop about everything happening within their neig
 3. Pip
 4. Virtual Environment(venv)
 
-
-### Clone the  project 
-Run the following command on the terminal:
-`git clone https://github.com/ndanu-josy/Neighbourhood.git`
-
-
 ###  Project Setup
 1. Create virtual environment (python3 -m venv virtual)
 2. Activate virtual environment (. virtual/bin/activate)
-3. Install  all dependancies ( pip install -r requirements.txt)
+3. Install  all dependencies ( pip install -r requirements.txt)
 4. Create database (CREATE DATABASE hood;)
 5. Make migrations
 
     #### Database Migrations
-    python3 manage.py makemigrations neighapp
+    python3 manage.py make migrations neigh app
     python3 manage.py migrate
 
 6. Run the application
@@ -36,14 +30,7 @@ Run the following command on the terminal:
     python3.8 manage.py runserver
 
 7.  Testing the application
-     python3 manage.py test neighapp
-
-### Admin Dashboard
-    (https://hoodwtch.herokuapp.com//admin)
-    username: moringa
-    password: moringa123
-
-
+     python3 manage.py test neigh app
 
 
 ### Search functionality
@@ -56,7 +43,7 @@ Run the following command on the terminal:
    
 ## Live Sute
 
-[View Live Site.](https://hoodwtch.herokuapp.com/)
+[View Live Site.]()
 
 ## License
 
