@@ -137,8 +137,6 @@ WSGI_APPLICATION = 'Neighbourhood.wsgi.application'
 # }
 
 
-
-
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
 
@@ -209,4 +207,3 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 # Configure Django App for Heroku.
 django_heroku.settings(locals())
-
