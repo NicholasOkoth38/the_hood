@@ -43,7 +43,7 @@ A website to keep a user in the know about everything happening within their hoo
    
 ## Live Sute
 
-[View Live Site.]()
+[View Live Site.](https://nickthehood.herokuapp.com/)
 
 ## License
 
